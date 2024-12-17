@@ -1,0 +1,16 @@
+[theme]
+base="light"
+primaryColor="#22c55e"
+backgroundColor="#c9ebce"
+secondaryBackgroundColor="#ffffff"
+textColor="#333333"
+font="sans serif"
+
+[styles]
+containerStyle="max-width: 800px; margin: 0 auto; padding: 20px; text-align: center;"
+headerStyle="margin-bottom: 20px; font-size: 2.5rem; color: #1d4ed8;"
+uploadSectionStyle="background-color: #ffffff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);"
+buttonPrimaryStyle="margin-top: 20px; padding: 10px 20px; background-color: #22c55e; color: white; border: none; border-radius: 5px; font-size: 1rem; font-weight: bold; cursor: pointer; transition: background-color 0.3s;"
+buttonPrimaryHoverStyle="background-color: #16a34a;"
+resultsStyle="background-color: #ffffff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); margin-top: 20px;"
+featureStyle="background: linear-gradient(to top right, #d9f99d, #6ee7b7); padding: 20px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s;"
